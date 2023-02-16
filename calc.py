@@ -5,7 +5,7 @@ def calculate(operator, num1, num2):
         return num1 - num2
     if (operator == "*"):
         return num1 * num2
-    if (operator == "/")
+    if (operator == "/"):
         return num1 / num2
     
 while True:
