@@ -1,3 +1,3 @@
 # Calculator
 
-A caluclator written in python that calculates
+A calculator written in python that calculates
